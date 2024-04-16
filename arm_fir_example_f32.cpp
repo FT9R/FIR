@@ -64,7 +64,7 @@ int32_t main(void)
     std::cout << "Current working directory: " << std::filesystem::current_path() << std::endl << std::endl;
 
     /* Set file paths */
-    std::string CombinedDataPath = "../../Scripts/CombinedSignal.csv";
+    std::string CombinedDataPath = "../../Signals/CombinedSignal.csv";
     std::string FilteredDataPath =
         CombinedDataPath.substr(0, CombinedDataPath.find_last_of("\\/")).append("/FilteredSignal.csv");
 

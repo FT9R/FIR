@@ -47,5 +47,5 @@ plt.tight_layout()
 plt.show()
 
 # Save signal data to the file
-np.savetxt('PureSignal.csv', triangle, delimiter = ',')
-np.savetxt('CombinedSignal.csv', triangle + noise, delimiter = ',')
+np.savetxt('Signals/PureSignal.csv', triangle, delimiter = ',')
+np.savetxt('Signals/CombinedSignal.csv', triangle + noise, delimiter = ',')

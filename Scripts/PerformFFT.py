@@ -2,9 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Get raw data
-pure_signal = np.loadtxt('PureSignal.csv')
-combined_signal = np.loadtxt('CombinedSignal.csv')
-filtered_signal = np.loadtxt('FilteredSignal.csv')
+pure_signal = np.loadtxt('Signals/PureSignal.csv')
+combined_signal = np.loadtxt('Signals/CombinedSignal.csv')
+filtered_signal = np.loadtxt('Signals/FilteredSignal.csv')
 
 # Parameters
 samples = pure_signal.__len__()

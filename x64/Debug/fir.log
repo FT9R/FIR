@@ -1,2 +1,3 @@
 ﻿  arm_fir_example_f32.cpp
+     Создается библиотека E:\Projects\FIR\x64\Debug\fir.lib и объект E:\Projects\FIR\x64\Debug\fir.exp
   fir.vcxproj -> E:\Projects\FIR\x64\Debug\fir.exe
