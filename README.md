@@ -7,8 +7,8 @@ The current repository contains some Python scripts for:
 - Performing a fast Fourier transform (FFT) to evaluate filtering efficiency
 
 ## Notes
-This time it is aimed primarily for use alongside with Cortex-based MCUs and the CMSIS DSP software library.  
-But windows machine is used because of its extended debug capability.  
+Despite the fact that CMSIS DSP software library is designed to work alongside with Cortex-based MCUs,  
+this time windows machine is used because of its extended debug capability.  
 So CMSIS `arm_fir_f32` and `arm_fir_init_f32` functions are implemented in form of DLL with minor changes  
 to be used by a console application.
 
