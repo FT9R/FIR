@@ -1,0 +1,9 @@
+C:\Users\r.cheremushkin\Desktop\fir\x64\Debug\fir.exe.lastcodeanalysissucceeded
+C:\Users\r.cheremushkin\Desktop\fir\x64\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\r.cheremushkin\Desktop\fir\x64\Debug\fir.exe
+E:\Projects\MasterDegree\MD\GradWork\SatMeas\FIR\x64\Debug\fir.exe.lastcodeanalysissucceeded
+E:\Projects\MasterDegree\MD\GradWork\SatMeas\FIR\x64\Debug\NativeCodeAnalysis.read.1.tlog
+E:\Projects\MasterDegree\MD\GradWork\SatMeas\FIR\x64\Debug\fir.exe
+E:\Projects\FIR\x64\Debug\fir.exe.lastcodeanalysissucceeded
+E:\Projects\FIR\x64\Debug\NativeCodeAnalysis.read.1.tlog
+E:\Projects\FIR\x64\Debug\fir.exe

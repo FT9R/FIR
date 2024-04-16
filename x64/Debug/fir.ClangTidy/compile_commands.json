@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "E:\\Projects\\FIR",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/IE:\\Projects\\FIR\\\/arm_fir_filter \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/std:c++latest \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP   \"E:\\Projects\\FIR\\arm_fir_example_f32.cpp\"",
+    "file": "E:\\Projects\\FIR\\arm_fir_example_f32.cpp"
+  }
+]

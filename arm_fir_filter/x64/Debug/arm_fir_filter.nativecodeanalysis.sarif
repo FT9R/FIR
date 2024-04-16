@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33134.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/r.cheremushkin/desktop/fir/arm_fir_filter/arm_fir_filter.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "a3e0a099836c8b11abb02e47afa0da2034f00003f4a3afcdfdee51f870c2ebc3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/r.cheremushkin/desktop/fir/arm_fir_filter/pch.h"
+          },
+          "hashes": {
+            "sha-256": "02fa2c8926bb0255c1e716ec2fb4510cbc8b5762ba3f6d104f60ae049fc3f970"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/r.cheremushkin/desktop/fir/arm_fir_filter/framework.h"
+          },
+          "hashes": {
+            "sha-256": "4f0302ff1a4a85f099f0375625268cc6e76a190676ee7ac8cb179318b570def6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/r.cheremushkin/desktop/fir/arm_fir_filter/arm_fir_filter.h"
+          },
+          "hashes": {
+            "sha-256": "19b3533c5ba6815cfa374873085899cd813e4961428d8ae738a05fcfdac8433b"
+          }
+        }
+      ]
+    }
+  ]
+}
